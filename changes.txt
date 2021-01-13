@@ -1,0 +1,13 @@
+Backend changes
+
+1) replace userRoute.js -> path lib/user/userRoute.js
+
+2) replace userService.js -> path lib/user/userService.js
+
+3) create one folder named images under path lib/user folder
+
+
+
+Frontend changes
+
+1) replace user-management.component.html -> path src/app/theme/pages/default/angular/user-management/user-management.component.html
